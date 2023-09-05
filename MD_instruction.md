@@ -63,7 +63,7 @@ _Полужирный курсив: **текст**_.
 |string 2|title 2|
 |string 3|title 3|
 
-## Цитатты
+## Цитаты
 
 > Ссылки оформляются угловыми (>) скобками
 
@@ -84,3 +84,5 @@ _Полужирный курсив: **текст**_.
 \> Одна целая цитата
 
 ## Заключения 
+
+ [материалы](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html "ссылка на texterra") используемые в создании этой инструкции взяты с сайта texterra
